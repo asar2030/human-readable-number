@@ -32,4 +32,3 @@ module.exports = function toReadable (number) {
     }
     return readable.join(' ')
 }
-np
